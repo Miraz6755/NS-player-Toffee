@@ -44,10 +44,8 @@ https://cdn-toffee.iptvbd.xyz/live.php?id=sonysab_hd&e=.m3u8
 https://cdn-toffee.iptvbd.xyz/live.php?id=sony_max_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="LIVE TV", Sony Max
 https://cdn-toffee.iptvbd.xyz/live.php?id=sony_max&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="LIVE TV", 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="LIVE TV", Sony Pix HD
 https://cdn-toffee.iptvbd.xyz/live.php?id=sonypix_hd&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/301855/logo/240x240/mobile_logo_568574001733806528.png" group-title="LIVE TV", Sony Pix HD
-https://cdn-toffee.iptvbd.xyz/live.php?id=sports_highlights&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="LIVE TV", B4U Movies
 https://cdn-toffee.iptvbd.xyz/live.php?id=b4u_movies&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="LIVE TV", Sony Max 2
