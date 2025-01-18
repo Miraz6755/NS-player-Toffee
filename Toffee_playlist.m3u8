@@ -1,8 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="LIVE TV", Icc women's u19
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/301935/logo/240x240/mobile_logo_330625001736827612.png" group-title="LIVE TV", Icc women's T20 U19 1
 #https://cdn-toffee.iptvbd.xyz/live.php?id=match-2&e=.m3u8
-https://bdixtv24.site/toffee/live.php?id=match_1&e=.m3u8
+https://bdixtv24.site/toffee/live.php?id=match-1&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/301939/logo/240x240/mobile_logo_123042001737102291.png" group-title="LIVE TV", Icc Women' T20 U19 2
+https://bdixtv24.site/toffee/live.php?id=match-2&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/301940/logo/240x240/mobile_logo_285286001737102329.png" group-title="LIVE TV", Icc Women' T20 U19 3
+https://bdixtv24.site/toffee/live.php?id=match-3&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/301855/logo/240x240/mobile_logo_568574001733806528.png" group-title="LIVE TV", Toffee Reply
 #https://cdn-toffee.iptvbd.xyz/live.php?id=replay_channel&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="LIVE TV", Toffee Sports VIP
@@ -14,6 +18,10 @@ https://bdixtv24.site/toffee/live.php?id=toffee_movie&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="LIVE TV", Toffee Dramas VIP
 #https://cdn-toffee.iptvbd.xyz/live.php?id=toffee_drama&e=.m3u8
 https://bdixtv24.site/toffee/live.php?id=toffee_drama&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" group-title="LIVE TV", T Sports Live 01
+https://bdixtv24.site/tsports/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/mobile_logo/1735207297-BPL-Live-Thum.jpg" group-title="LIVE TV", LIVE | BPL 2025
+https://bdixtv24.site/tsports/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="LIVE TV", Channel i
 #https://cdn-toffee.iptvbd.xyz/live.php?id=channel_i&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_240535001731487107.png" group-title="LIVE TV", CNN
