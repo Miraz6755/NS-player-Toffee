@@ -18,6 +18,8 @@ https://bdixtv24.site/toffee/live.php?id=toffee_movie&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_764950001725875605.png" group-title="LIVE TV", Toffee Dramas VIP
 #https://cdn-toffee.iptvbd.xyz/live.php?id=toffee_drama&e=.m3u8
 https://bdixtv24.site/toffee/live.php?id=toffee_drama&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="LIVE TV" Zee Bangla
+https://bdixtv24.site/toffee/live.php?id=zee_bangla&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg" group-title="LIVE TV", T Sports Live 01
 https://bdixtv24.site/tsports/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://image.tsports.com/images/mobile_logo/1735207297-BPL-Live-Thum.jpg" group-title="LIVE TV", LIVE | BPL 2025
@@ -25,7 +27,7 @@ https://bdixtv24.site/tsports/stream.php?stream=https://live-cdn.tsports.com/liv
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="LIVE TV", Channel i
 #https://cdn-toffee.iptvbd.xyz/live.php?id=channel_i&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_240535001731487107.png" group-title="LIVE TV", CNN
-https://cdn-toffee.iptvbd.xyz/live.php?id=cnn&e=.m3u8
+#https://cdn-toffee.iptvbd.xyz/live.php?id=cnn&e=.m3u8
 https://bdixtv24.site/toffee/live.php?id=cnn&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="LIVE TV", Euro Sports HD
 #https://cdn-toffee.iptvbd.xyz/live.php?id=euro_sports_hd&e=.m3u8
@@ -86,6 +88,10 @@ https://bdixtv24.site/toffee/live.php?id=b4u_movies&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="LIVE TV", Sony Max 2
 #https://cdn-toffee.iptvbd.xyz/live.php?id=sonymax_2&e=.m3u8
 https://bdixtv24.site/toffee/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="LIVE TV", Zee Bangla Cinema
+https://bdixtv24.site/toffee/live.php?id=zee_bangla_cinema&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/303937/logo/240x240/mobile_logo_880134001738072763.png" group-title="LIVE TV",Hum TV
+https://bdixtv24.site/toffee/live.php?id=hum_tv&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="LIVE TV", TLC
 https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8
 https://bdixtv24.site/toffee/live.php?id=tlc_hd&e=.m3u8
