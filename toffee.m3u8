@@ -8,7 +8,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/304034/logo/240x240/mobile_logo_418725001739525321.png" group-title="LIVE TV", IRL vs ZIM
 
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/301855/logo/240x240/mobile_logo_568574001733806528.png" group-title="LIVE TV", Toffee Reply
-https://tv.bdixtv24.co/toffee/live.php?id=9cc74d11cfd0&e=.m3u8
+#https://tv.bdixtv24.co/toffee/live.php?id=9cc74d11cfd0&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png" group-title="LIVE TV", Toffee Sports VIP
 #https://cdn-toffee.iptvbd.xyz/live.php?id=sports_highlights&e=.m3u8
 https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
@@ -105,25 +105,25 @@ https://toffee.xenolive.xyz/live.php?id=hum_sitaray&e=.m3u8
 #https://cdn-toffee.iptvbd.xyz/live.php?id=tlc_hd&e=.m3u8
 https://toffee.xenolive.xyz/live.php?id=tlc_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="LIVE TV", TLC
-https://toffee.xenolive.xyz/live.php?id=tlc_hd&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=tlc_sd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="LIVE TV", Animal Planet
 #https://cdn-toffee.iptvbd.xyz/live.php?id=animal_planet_sd&e=.m3u8
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=animal_planet_sd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="LIVE TV", Animal Planet HD
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=animal_planet_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_330023001731294257.png" group-title="LIVE TV", BBC Earth
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=sonybbc_earth_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="LIVE TV", Discovery HD
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=discovery_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="LIVE TV", Discovery
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=discovery_sd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="LIVE TV", Discovery Science
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=discovery_science&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="LIVE TV", Discovery Turbo
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=discovery_turbo&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="LIVE TV", Discovery Investigation
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=discovary_investigation_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="LIVE TV", & Tv HD
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=and_tv_hd&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="LIVE TV", & Pictures Tv
-https://toffee.xenolive.xyz/live.php?id=sports_highlights&e=.m3u8
+https://toffee.xenolive.xyz/live.php?id=andpicture_hd&e=.m3u8
